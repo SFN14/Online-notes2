@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: note
 
 title: Master Table of Contents
 
@@ -31,5 +31,4 @@ Status: #📚📚
 
 
 ## (Not Actively Working Map of Content)
-
 
