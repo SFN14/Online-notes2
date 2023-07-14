@@ -1,4 +1,10 @@
-#📚📚
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
+
 # School
 ## (Actively Working Map of Content)
 [[BS Semester 1]]

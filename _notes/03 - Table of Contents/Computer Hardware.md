@@ -1,4 +1,4 @@
-[[00 - Master Table of Contents]]
+[[Master Table of Contents]]
 Status: #📚 
 
 # Overview
