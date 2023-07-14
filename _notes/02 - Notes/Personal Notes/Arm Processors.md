@@ -1,6 +1,6 @@
 07-13-2023 21:19
 status: #📝
-Tags: [[Processor]] #personalnotes #interests 
+Tags: [[Computer Science]] #personalnotes #interests 
 
 # Summary 
 - 

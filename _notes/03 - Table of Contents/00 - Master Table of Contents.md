@@ -1,9 +1,4 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
+Status: #📚📚
 
 # School
 ## (Actively Working Map of Content)

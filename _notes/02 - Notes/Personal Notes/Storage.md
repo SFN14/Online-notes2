@@ -9,7 +9,7 @@ Tags: [[Computer Hardware]] #personalnotes #interests
 A computer doesn't normally have a way to permanently store information, [[Cache]] and [[RAM]] are just temporary place to store information. That's what storage is for computers, a permanent place to store information, to recall it for future use.
 
 ## What are the most common types of storage?
-[[Hard Disk Drives|HDDs]] or [[Hard Disk Drives]] - These are mechanical storage devices that use a spinning disk or platter that has a head that physically moves to [[read]] and [[write]] information from the spinning disk. These devices usually have a large storage capacity.
+[[Hard Disk Drives|HDDs]] or [[Hard Disk Drives]] - These are mechanical storage devices that use a spinning disk or platter that has a head that physically moves to [[read]] and [[Write]] information from the spinning disk. These devices usually have a large storage capacity.
 
 [[Solid State Drives|SSDs]] or [[Solid State Drives]] - These are electronic storage devices that uses [[Flash Memory]] to store information, these are much faster compared to [[Hard Disk Drives|HDDs]] due to the process of storing data being electronic.
 

@@ -1,6 +1,6 @@
 07-14-2023 11:42
 status: #📝
-Tags: [[Graphics Card]]
+Tags: [[Graphics Card]] #personalnotes #interests 
 
 # Summary 
 - 
