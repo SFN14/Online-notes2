@@ -1,3 +1,12 @@
+---
+layout: page
+
+title: Master Table of Contents
+
+id: Master Table of Contents
+
+permalink: /
+---
 Status: #📚📚
 
 # School

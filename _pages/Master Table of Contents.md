@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-id: home
+title: Master Table of Contents
+id: Master Table of Contents
 permalink: /
 ---
 
