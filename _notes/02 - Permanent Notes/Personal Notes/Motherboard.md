@@ -13,7 +13,7 @@ The motherboard is where the [[Processor]], [[Graphics Card]], [[RAM]], [[Storag
 
 [[PCIE slot]] - This slot is where you plug in the [[Graphics Card]] and [[PCIE Expansion Card]]s.
 [[RAM slot]] - This slot is where you slot in the [[RAM]] of the system. This usually has 2 or 4 slots, while in the [[Server]] or prosumer hardware has more than 4 slots, it usually has 6 - 8 slots or more. 
-[[Processor Socket]] - This socket is where you place the [[Processor]], of the computer. There are two kind of sockets that are used, [[Land Grid Array]] or [[Land Grid Array|Array]], and [[Pin Grid Array]] or [[Pin Grid Array|PGA]]. This socket is how the [[Processor]] communicate with the motherboard.
+[[Processor Socket]] - This socket is where you place the [[Processor]], of the computer. There are two kind of sockets that are used, [[Land Grid Array]] or [[Land Grid Array|LGA]], and [[Pin Grid Array]] or [[Pin Grid Array|PGA]]. This socket is how the [[Processor]] communicate with the motherboard.
 [[Voltage Regulator Module]] or [[Voltage Regulator Module|VRM]] - This is part of the motherboard that delivers power to the [[Processor]]. 
 [[CMOS Battery]] - This is a [[Batteries|battery]] that powers the [[Basic  Input Output System|BIOS]] of the motherboard. 
 [[Chipset]] - This chip controls major functions of the motherboard and the part that communicated with all the parts connected to the motherboard. 

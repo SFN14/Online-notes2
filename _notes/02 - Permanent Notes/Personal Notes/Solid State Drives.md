@@ -3,9 +3,10 @@ status: #📝
 Tags: [[Storage]] #personalnotes 
 
 # Summary 
-- 
 
-# Topic title 
-- 
+
+# What is a Solid State Drive?
+
+
 
 # References

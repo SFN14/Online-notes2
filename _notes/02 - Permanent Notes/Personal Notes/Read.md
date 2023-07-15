@@ -1,5 +1,5 @@
 07-15-2023 13:30
-Status: #📝 
+Status: #📄 
 Tags: #term 
 
 # What is Read in the context of Computers?

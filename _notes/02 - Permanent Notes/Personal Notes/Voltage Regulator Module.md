@@ -1,5 +1,5 @@
 07-15-2023 13:20
-Status: 
+Status: #📄 
 Tags: [[Motherboard]] #personalnotes 
 
 # Summary

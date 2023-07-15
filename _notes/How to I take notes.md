@@ -13,8 +13,13 @@ To sort all the information I have I first sort it by status:
 #💡 - Means that it is a Initial note.
 #📝 - Means that it is being written.
 #📄 - Means that it is done being written.
-#📕 - Means that it is a work in progress Map of Content.
+#📕 - Means that it is a work in progress Map of Content (MOC).
 #📘 - Means that it is a finished Map of Content.
 #📚 - Means that it is a collection of MOCs.
 #📚📚 - Means that it is the Master MOC.
 There are also other tags that goes to the 'Tags' sections, which will also act as filters so I can find what I need. I also use the 'Tag' sections to connect the note to another note.
+
+# Map of Content
+A Map of Content is where all the main ideas of a topic connect to, it can be called Table of Content of a Topic.
+
+The main MOC of the system will show which MOCs I am currently working on. You May go to which MOC you would want. The ones that I haven't worked on will be on the not actively working on. 
