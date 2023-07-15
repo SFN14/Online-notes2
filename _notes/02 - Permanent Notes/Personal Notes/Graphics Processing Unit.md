@@ -6,7 +6,7 @@ Tags: [[Graphics Card]] [[Computer Science]] #personalnotes
 
 
 # What is a GPU? 
-The GPU is the [[Graphics Card]]' processor, it is the part of the [[Graphics Card]] that does the computing of information and turns it into frames. The difference of a GPU and a [[Processor]] is that GPUs are more specialized and focus solely of computing graphics or workloads that require needs a lot of calculations. Compared to a [[Processor]] that is more versatile and can do many different calculations and workloads that the GPU would struggle. 
+The GPU is the [[Graphics Card]]'s processor, it is the part of the [[Graphics Card]] that does the computing of information and turns it into frames. The difference of a GPU and a [[Processor]] is that GPUs are more specialized and focus solely of computing graphics or workloads that require needs a lot of calculations. Compared to a [[Processor]] that is more versatile and can do many different calculations and workloads that the GPU would struggle. 
 
 # How does a GPU work? 
 The GPU works essentially the same as a [[Processor]] but its parts have different purposes. Instead of having few multipurpose cores, a GPU as [[Graphics cores|much more cores]] that reaches into the thousands that is specialized. These [[Graphics cores|cores]] focus on calculating visual information or polygons to be rendered in screens.

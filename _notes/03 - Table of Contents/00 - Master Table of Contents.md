@@ -9,6 +9,7 @@ permalink: /
 ---
 Status: #📚📚
 
+
 # School
 ## (Actively Working Map of Content)
 [[BS Semester 1]]

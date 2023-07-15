@@ -1,6 +1,6 @@
 07-14-2023 21:59
 status: #📝
-Tags:
+Tags: [[Computer Science]]
 
 # Summary 
 - 

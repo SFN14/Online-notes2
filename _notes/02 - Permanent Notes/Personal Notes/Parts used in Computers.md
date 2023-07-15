@@ -20,7 +20,7 @@ There are 9 main components of a computer, these are the: [[Processor]], [[Mothe
 # What are the parts that aren't normally mentioned in computers?
 These parts are usually found in most Desktop Computers and Laptops. There are also some crucial parts, but not always mentioned:
 1. [[PCIE Expansion Card]]
-2. [[Processor Cooler]]
+2. [[Cooler]]
 3. [[Batteries]]
 4. [[Case Fans]]
    The combination of these components could come in different forms, there are the conventional ways like Desktop and Laptop, where you can clearly see the parts and where they are. While there are devices like [[System On a Chip]] or [[System On a Chip|SOC]]s that makes it hard to distinguish which part is which due to its tight integration. Examples of these are devices with [[Arm Processors]].

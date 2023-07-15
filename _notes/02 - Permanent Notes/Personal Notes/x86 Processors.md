@@ -1,6 +1,6 @@
 07-13-2023 21:32
 status: #📝
-Tags: [[Processor]] #personalnotes 
+Tags: [[Processor]] [[Computer Science]] #personalnotes 
 
 # Summary 
 - 
