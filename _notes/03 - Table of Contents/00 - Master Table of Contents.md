@@ -12,7 +12,7 @@ Status: #📚📚
 This is a website of my Obsidian vault, it is still a work in progress but most of notes I will be taking will be placed and and updated somewhat periodically.
 You can use the Map of Contents provided below to Navigate my notes.
 
-## This explains on how I will take notes for my system.
+## This explains on how I will take notes for my system and how to Navigate the Vault.
 [[How to I take notes]]
 
 # School

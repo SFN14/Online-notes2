@@ -10,7 +10,16 @@ There are notes that overview my knowledge regarding the topic. This is where yo
 
 # Parts
 These are the most Common parts that you will encounter when making a PC
-```dataview
-List 
-FROM [[Computer Hardware]] AND #personalnotes 
-```
+
+- [[PCIE Expansion Card]]
+- [[Batteries]]
+- [[Input Device]]
+- [[RAM]]
+- [[Case]]
+- [[Parts used in Computers]]
+- [[Output Device]]
+- [[Graphics Card]]
+- [[Motherboard]]
+- [[Storage]]
+- [[Processor]]
+- [[PSU]]

@@ -23,3 +23,6 @@ There are also other tags that goes to the 'Tags' sections, which will also act 
 A Map of Content is where all the main ideas of a topic connect to, it can be called Table of Content of a Topic.
 
 The main MOC of the system will show which MOCs I am currently working on. You May go to which MOC you would want. The ones that I haven't worked on will be on the not actively working on. 
+
+# Navigation
+To easily navigate the Vault, I recommend to use the nodes on the bottom of the page, along with the MOC so that you can easily find what you want.
