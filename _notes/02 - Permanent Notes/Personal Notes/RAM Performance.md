@@ -1,5 +1,5 @@
-{{date:MM-DD-YYYY}} {{time:HH:mm}}
-status: 
+07-15-2023 09:57
+status: #📝
 Tags:
 
 # Summary 

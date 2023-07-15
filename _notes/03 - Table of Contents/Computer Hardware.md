@@ -1,5 +1,5 @@
 [[00 - Master Table of Contents]]
-Status: #📚 
+Status: #📕
 
 # Overview
 ## [[Parts used in Computers]]
