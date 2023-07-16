@@ -6,13 +6,19 @@ Tags: #interests
 >[!abstract] Brief overview of what the topic is
 
 # [[Parts used in Computers]]
-```dataview
-list
-from #personalnotes AND [[Computer Hardware]]
-```
+
+- [[Batteries]]
+- [[Case]]
+- [[Graphics Card]]
+- [[Input Device]]
+- [[Motherboard]]
+- [[Output Device]]
+- [[PCIE Expansion Card]]
+- [[PSU]]
+- [[Parts used in Computers]]
+- [[Processor]]
+- [[RAM]]
+- [[Storage]]
 
 # [[Networking]]
-## Concepts
-## Concepts
-## Concepts
-## Concepts
+
