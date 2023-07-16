@@ -1,7 +1,7 @@
----
+[[00 - Master Table of Contents]]
 Status:
-Tags:
----
+Tags: #📕 
+
 
 >[!abstract] Brief overview of what the topic is
 

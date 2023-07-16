@@ -1,8 +1,17 @@
+---
+Literature:
+Publish Year:
+Author:
+---
+(Book)
+Date: {{date:MM-DD-YYYY}}
+Time: {{time:HH:mm}}
+Literature:
 Status: 
 Tags:
 
 ---
-# (book title) Application
+# {{Title}} Application
 ## Top 3 Quotes
 >
 

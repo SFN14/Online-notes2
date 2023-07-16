@@ -7,4 +7,3 @@ table year, Semester
 from #course
 where year=1 AND semester=1
 ```
-

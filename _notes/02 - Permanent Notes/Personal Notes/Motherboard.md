@@ -6,7 +6,7 @@ Tags: [[Computer Hardware]] #personalnotes
 The Motherboard is where all the computer components connect and communicated with each other.
 
 # What is a Motherboard? 
-The motherboard is where the [[Processor]], [[Graphics Card]], [[RAM]], [[Storage]], [[PSU]], [[PCIE Expansion Card]]s, [[Input Device]], and [[Output Device]] connect and communicate with each other. It is made from a [[Printed Ciruit Board|PCB]] and has traces connecting the parts of the motherboard to each other. 
+The motherboard is where the [[Processor]], [[Graphics Card]], [[RAM]], [[Storage]], [[PSU]], [[PCIE Expansion Card]]s, [[Input Device]], and [[Output Device]] connect and communicate with each other. It is made from a [[Printed Circuit Board|PCB]] and has traces connecting the parts of the motherboard to each other. 
 
 # Major Parts of the Motherboard
 ![[x670 Motherboard.png]] *Fig 1 AM5 X670 Motherboard*

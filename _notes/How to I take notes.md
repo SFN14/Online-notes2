@@ -26,3 +26,5 @@ The main MOC of the system will show which MOCs I am currently working on. You M
 
 # Navigation
 To easily navigate the Vault, I recommend to use the nodes on the bottom of the page, along with the MOC so that you can easily find what you want.
+
+#course 

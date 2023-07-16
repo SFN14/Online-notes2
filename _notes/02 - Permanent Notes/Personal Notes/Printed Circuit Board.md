@@ -1,6 +1,6 @@
 07-14-2023 21:58
 status: #📝
-Tags: #term
+Tags: [[Motherboard]] [[Processor die]] #term
 
 # Summary 
 - 

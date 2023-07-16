@@ -1,7 +1,7 @@
 
 ```dataview
-LIST
-FROM #💡
+List
+FROM 
 ```
 
 
