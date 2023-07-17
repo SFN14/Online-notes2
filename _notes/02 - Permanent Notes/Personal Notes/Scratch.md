@@ -7,11 +7,6 @@ Status: #💡
 Tags: [[CS50]]
 
 ----
-# What is Computer Science?
-It is problem solving, turning inputs to outputs. 
-![[Inputoutput]]
-
-
 # Computer language
 - Computer language represents the inputs that give to our computers.
 - Computers use the Binary language, using ones and zeroes to count. using different patterns to count numbers. These numbers are called Bits 

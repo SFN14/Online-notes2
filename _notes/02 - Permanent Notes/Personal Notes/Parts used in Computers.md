@@ -19,7 +19,7 @@ There are 9 main components of a computer, these are the: [[Processor]], [[Mothe
 
 # What are the parts that aren't normally mentioned in computers?
 These parts are usually found in most Desktop Computers and Laptops. There are also some crucial parts, but not always mentioned:
-1. [[PCIE Expansion Card]]
+1. [[PCIe Expansion Card]]
 2. [[Cooler]]
 3. [[Batteries]]
 4. [[Case Fans]]

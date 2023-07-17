@@ -13,7 +13,7 @@ Tags: #interests
 - [[Input Device]]
 - [[Motherboard]]
 - [[Output Device]]
-- [[PCIE Expansion Card]]
+- [[PCIe Expansion Card]]
 - [[PSU]]
 - [[Parts used in Computers]]
 - [[Processor]]
