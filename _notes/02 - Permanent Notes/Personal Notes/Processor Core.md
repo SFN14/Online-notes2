@@ -1,6 +1,6 @@
 07-14-2023 21:59
 status: #📄 
-Tags: [[Computer Science]]
+Tags: [[Computer Engineering]] #personalnotes 
 
 # Summary 
 A Processor Core is the part of the [[Processor]] that does the actual thinking and computing.

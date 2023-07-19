@@ -1,6 +1,6 @@
 07-13-2023 21:32
 status: #📄 
-Tags: [[Processor]] [[Computer Science]] #personalnotes 
+Tags: [[Processor]] [[Computer Engineering]] #personalnotes 
 
 # Summary 
 It is a framework that state on what instructions a [[Processor]] can do, and how it execute orders given by the Operating System. 

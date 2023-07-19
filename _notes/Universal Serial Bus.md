@@ -1,7 +1,7 @@
-Date: {{date:MM-DD-YYYY}} 
-Time: {{time:HH:mm}}
+Date: 07-18-2023 
+Time: 11:07
 status: 
-Tags:
+Tags: [[I O Ports|I/O Port]]
 
 # Summary 
 

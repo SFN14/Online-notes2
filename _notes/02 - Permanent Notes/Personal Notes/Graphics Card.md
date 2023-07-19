@@ -1,6 +1,6 @@
 07-13-2023 21:22
 status: #📝
-Tags: [[Computer Hardware]] #personalnotes #interests 
+Tags: [[Computer Hardware]] #personalnotes 
 
 # Summary 
 A Graphics Card is a part of the computer computes information into images or frames that can be outputted to a monitor.

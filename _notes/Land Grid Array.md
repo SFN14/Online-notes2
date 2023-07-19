@@ -1,7 +1,7 @@
-Date: {{date:MM-DD-YYYY}} 
-Time: {{time:HH:mm}}
-status: 
-Tags:
+Date: 07-18-2023 
+Time: 11:10
+status: #📝 
+Tags: [[Processor Socket]]
 
 # Summary 
 

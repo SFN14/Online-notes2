@@ -6,7 +6,7 @@ Tags: [[Motherboard]] #personalnotes
 A RAM slot is a part of the [[Motherboard]] where you place the [[RAM]] of a computer. 
 
 # What is a RAM slot?
-A RAM slot is a slot in the [[Motherboard]] that you place the [[RAM]] of a computer. There are usually 2 slots in lower end [[Motherboard]]s and 4 slots in higher end ones. In prosumer or server grade hardware, there are usually more than 4 slots for [[RAM]]. RAM slots are typically close to the [[Processor Socket]] so that there isn't too much latency between the [[Processor]] and [[RAM]].
+A RAM slot is a slot in the [[Motherboard]] that you place the [[RAM]] of a computer. There are usually 2 slots in lower end [[Motherboard]]s and 4 slots in higher end ones. In prosumer or server motherboards, there are usually more than 4 slots for [[RAM]]. RAM slots are typically close to the Processor Socket so that there isn't too much latency between the [[Processor]] and [[RAM]].
 
 # Types of RAM slots
 There are two common types of RAM slots:

@@ -1,7 +1,7 @@
-Date: {{date:MM-DD-YYYY}} 
-Time: {{time:HH:mm}}
-status: 
-Tags:
+Date: 07-17-2023 
+Time: 16:56
+status: #📝 
+Tags: [[Networking]]
 
 # Summary 
 

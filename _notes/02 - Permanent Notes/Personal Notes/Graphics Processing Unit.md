@@ -1,6 +1,6 @@
 07-14-2023 11:42
 status: #📄 
-Tags: [[Computer Science]] #personalnotes
+Tags: [[Computer Engineering]] #personalnotes
 
 # Summary 
 

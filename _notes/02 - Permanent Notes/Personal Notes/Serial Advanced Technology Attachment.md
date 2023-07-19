@@ -1,5 +1,5 @@
 07-15-2023 09:57
-status: #📝
+status: #📝 #personalnotes 
 Tags:
 
 # Summary 

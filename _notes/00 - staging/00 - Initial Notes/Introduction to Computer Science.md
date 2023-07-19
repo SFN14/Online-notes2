@@ -4,10 +4,13 @@ Type: personalnotes
 Date: 07-17-2023
 Time: 11:11
 Status: #💡 
-Tags: [[CS50]]
+Tags: [[CS50]] 
 
 ----
-# Computer language
+# What is Computer Science?
+- In a basic sense it is problem solving. Where you have to process inputs into outputs.
+![[Inputoutput]]
+# What is Computer language? 
 - Computer language represents the inputs that give to our computers.
 - Computers use the Binary language, using ones and zeroes to count. using different patterns to count numbers. These numbers are called Bits 
 - Computer language is basically a language that is written in 1s and 0s, and we have to agree (standards) what that pattern of 1s and 0s mean to know what a computer is outputting. 
@@ -16,7 +19,7 @@ In Binary, 1 represents that it stores electricity, while zero means it doesn't,
 - We could use a switch to represent the one or zero, an open switch is 1 while a zero isn't.
 - We use the decimal system to represent number like 123, 1 in in the 100ths 2 is in the 10ths and 3 is in the 1s. In binary the 000 is just in powers of zeroes from left to right 2<sup></sup><sup>2</sup>, 2<sup>1</sup>, 2<sup>0</sup>. This is why 010 is equals to 2, because we times 4 to 0, 2 to 1, then 1 to 0, then we all them all together to get 2. You can change the base base to count in a different way, or add more bits to count more.
 - We could also use numbers in binary to represent letters in a language.
-# How do we do math using Binary? 
+# How do we understand the language of computers?
 ## How Letters are Displayed with Numbers
 - We interpret the patterns of  0s and 1s depending on the context, meaning it depends on the program, or file type.
 - We give a computer a hint to tell the computer how to interpret the bits. The standardized way to do this is ASCII.
@@ -42,7 +45,7 @@ In Binary, 1 represents that it stores electricity, while zero means it doesn't,
 - Harnessing intuition.
 - The goal is to lessen the time used to an problem, no matter how big it gets. 
 
-# Pseudo Code
+## Pseudo Code
 - The logic behind the solution to a problem, the code or an Algorithm 
 Ex: 
 ```C++
@@ -64,7 +67,7 @@ Ex:
 - In This case quit is an important action. Because, what will the computer due if doesn't find the person?
 - 
 ## Functions
-- Actions that solve smaller problems
+- Actions that solve smaller problems.
 Ex:
 ```c++
 1 **Pick** up phone book

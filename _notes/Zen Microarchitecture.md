@@ -1,7 +1,7 @@
-Date: {{date:MM-DD-YYYY}} 
-Time: {{time:HH:mm}}
-status: 
-Tags:
+Date: 07-18-2023 
+Time: 11:06
+status: #📄 
+Tags: [[Microarchitecture]] #term 
 
 # Summary 
 

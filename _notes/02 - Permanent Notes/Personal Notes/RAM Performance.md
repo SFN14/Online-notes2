@@ -1,6 +1,6 @@
 07-15-2023 09:57
 status: #📝
-Tags:
+Tags: [[RAM]] #personalnotes 
 
 # Summary 
 
