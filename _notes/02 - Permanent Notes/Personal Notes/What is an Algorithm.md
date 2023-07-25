@@ -76,6 +76,8 @@ Those quoted in "****" shows what would be functions if it were real code.
 ```
 Those quoted in "******" shows what would be conditionals if it were real code.
 
+Conditionals are functions that needs a certain thing to happen before it executes a code, if the thing that it wants happens, then it executes the code. If it doesn't get what it wants, the code does other part of the function, that be another condition or skips the block of code.
+
 ```C++
 1 Pick up phone book
 2 Open to the middle of phone book
@@ -92,7 +94,8 @@ Those quoted in "******" shows what would be conditionals if it were real code.
 11  Quit
 ```
 Those quoted in "******" shows what would be Boolean expressions if it were real code.
-Boolean expressions answers in 'yes' or 'no's
+
+Boolean expressions answers in 'yes' or 'no's.
 
 ```C++
 1 Pick up phone book
@@ -110,4 +113,5 @@ Boolean expressions answers in 'yes' or 'no's
 11  Quit
 ```
 Those quoted in "******" shows what would be loops if it were real code.
+
 This is done to do the same problem by looping on its self over and over again with only a few lines of code.

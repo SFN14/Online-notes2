@@ -7,10 +7,12 @@ My permanent notes are where I connect ideas and expound upon them. It is separa
 1. College Notes - are where I place the Notes I make in College.
 2. Literature Notes - are the notes that I make when reading Book, Articles, or Researches.
 3. Personal Notes - these are notes that I make when placing knowledge that I have, or thinking of concepts that I can connect to other Personal Notes, Literature Notes, or College Notes.
+4. Fleeting Notes - these notes are random ideas, realizations that I have that I can use to connect to other ideas, or what I use to connect two ideas.
 
 # Sorting (In Progress)
 To sort all the information I have I first sort it by status:
-#💡 - Means that it is a Initial note.
+#💡 - Means an Idea or a fleeting note.
+#✏️ - Means that it is an initial note.
 #📝 - Means that it is being written.
 #📄 - Means that it is done being written.
 #📕 - Means that it is a work in progress Map of Content (MOC).
@@ -18,6 +20,11 @@ To sort all the information I have I first sort it by status:
 #📚 - Means that it is a collection of MOCs.
 #📚📚 - Means that it is the Master MOC.
 There are also other tags that goes to the 'Tags' sections, which will also act as filters so I can find what I need. I also use the 'Tag' sections to connect the note to another note.
+Tag Filters:
+#personalnotes 
+#collegenotes
+#Feetingnotes
+#litnotes
 
 # Map of Content
 A Map of Content is where all the main ideas of a topic connect to, it can be called Table of Content of a Topic.

@@ -1,9 +1,9 @@
 07-13-2023 17:00
 Status: #📄 
-Tags: [[Computer Hardware]] [[Computer Enginneeing]] #personalnotes 
+Tags: [[Computer Hardware]] [[Computer Engineering]] #personalnotes 
 
 # Summary 
-A processor is the part of the computer that thinks, and computes. It uses [[Bits]], as information and uses [[logic gates]] to calculate the information to solve it. The major parts of a processor the consumer looks at are the [[Processor Core]] and [[Cache]] of the processor.
+A processor is the part of the [[computers|computer]] that thinks, and computes. It uses [[Bits]], as information and uses [[logic gates]] to calculate the information to solve it. The major parts of a processor the consumer looks at are the [[Processor Core]] and [[Cache]] of the processor.
 
 # What is a processor? 
 A processor is the part of the computer that thinks. It has an input of data called [[Bits]] and goes through a process to solve the problem we've given it. It is made of silicone or a [[Semi-conductor]] that selectively turns off or on gates that permit or block electrical signals to satisfy conditions. The processor usually socketed to the [[Motherboard]].
