@@ -150,6 +150,7 @@ Operators:
 ```
 
 Variables and syntactic sugar:
+This:
 ![[Pasted image 20230723152812.png]]
 
 this becomes:
@@ -176,3 +177,136 @@ int counter++;
 ```
 
 All Data types have a certain amount of bits that it could handle, some have 32 bit, some has 64 bit. You have to take this into account while writing code.
+
+In a conditional statement, try to minimize the amount of questions being asked, this is for optimization reasons. 
+
+If you know that number should not change, then make it into a constant.
+
+You can use the comments to put in pseudo code to think of a way to solve the problem you want to solve.
+
+
+This makes it so that you can loop up to three times.
+```C
+int i = 0
+while (i < 3)
+{
+	printf("Meow\n");
+	i++;
+}
+```
+
+
+```C
+for (int = 0; in < 3; i++)
+{
+	printf("Meow\n");
+}
+```
+the variable inside the "()" will stay inside the () in a for loop.
+
+
+do while loop:
+
+Does the thing first then the condition is at the end of the code.
+
+
+ASCII print
+Example code:
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+	int n;
+	do //This asks how many '?' to make
+	{
+		n =  get_int ("Width: ");
+	}
+	while (n < 1);
+
+	for (int i  = 0; i < n; i ++) //This for loop makes the '?'
+	{
+	printf("?");
+	}
+	printf("\n");
+}
+```
+
+
+Another Example code:
+
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+	int n;
+	do //This asks how many '?' to make
+	{
+		n =  get_int ("Width: ");
+	}
+	while (n < 1);
+
+	for (int i  = 0; i < n; i ++) //This for loop prints the columns
+	{
+		for (int j = 0; j < n; j++) //This for loop prints the rows
+			{
+			printf("#");
+			}
+			printf("\n"); // Moves to the next row
+	}
+}
+```
+
+
+
+Calculator problems
+
+When calculating you can have times where you can't get the exact answer you want the computer to give you, this is because there will be times that the program will run out of bits for that one task. Just like how exceeding a specific number in whole numbers will make the answer suddenly negative, or that numbers that have long decimals will not have a proper decimal, due to integer overflow. Or sometimes, it just approximates to give you the answer somewhat near.
+
+Truncation can happen sometimes, this is the act of the computer cutting away a value due to it not being the correct data type or a data type that doesn't support that kind of number. For example you have a variable that is an integer, but your output is a float, your answer would only show whole numbers due to the integer data type simply not supporting decimals. However you can convert one data type to another.
+
+Data type conversion
+
+The first iteration of the calculator:
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+	int x = get_int("x: ");
+	int y = get_int("y: ");
+	float x = x / y;
+	
+	printf("%.50f\n, z");
+}
+```
+
+Where you convert the data type from one to another:
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+	int x = get_int("x: ");
+	int y = get_int("y: ");
+	float x = (float) x / (float) y;
+	
+	printf("%.50f\n, z");
+}
+```
+
+The only thing you need to do is specifically say that no a later part of the code what you want the variable's data type to be. 
+
+Integer Overflow
+This happens when a bit has too much information than it can display for example 
+
+![[3 bits]]
+This is the limit of 3 bits, it shows no. 7 if you all them all up, but if we add more to show 8...
+
+![[Overflow]]
+it would make an invisible 1 and make all the 3 bits zero, which would just turn the bit back to 0.
