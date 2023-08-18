@@ -13,8 +13,13 @@ Since Binary numbers are just a pattern of 1s and 0s, we have to give it meaning
 
 ### ASCII
 To use ASCII you would need to use 1 Byte or 8 [[Bits]], so that you would have 255 characters (Though initially ASCII used 7 bits, then used 8, which is called extended ASCII). However, there is more that just English as a language, so a new standard was made do accommodate that, and its Called Unicode.
+
+#### How ASCII is shown:
+![[How ASCII works]]
+
+
 ### Unicode
-Unicode is just the same as ASCII, Unicode is even backwards compatible with it, but it just adds more characters to be used. From the 8 Bit of ASCII, it became 16 Bit in Unicode, meaning that it can display ~65,000 characters and it can even go to 32 Bit, which is roughly ~4 Billion characters.
+Unicode is just the same as ASCII, Unicode is even backwards compatible with it, but it just adds more characters to be used. From the 8 [[Bits]] of ASCII, it became 16 Bit in Unicode, meaning that it can display ~65,000 characters and it can even go to 32 Bit, which is roughly ~4 Billion characters.
 However, sometimes one character in one device, will not look the same in another, this is because what is on that assigned number of a character will stay the same but the interpretation of who implements the Unicode to the device will differ, that's why we can interpret the same character differently, this is especially prevalent in emojis.
 
 ## How Can a Computer Display Colors

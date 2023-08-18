@@ -112,7 +112,6 @@ Visualization:
 This is how data types in a program would take up space in memory. One box is a byte.
 
 Lets test this out in a program:
-
 ```C
 #include <stdio.h>
 
@@ -397,3 +396,170 @@ int main(void)
 ```
 
 This is now more efficient and looks better.
+
+
+This program turn strings into capitals:
+```C
+#include <cs50.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	string s = get_string("Before: ");
+	pritnf("After: ");
+	for (int i = 0, n = strleng(s); i < n; i++)
+	{
+		if (s[i] >= 'a' && s[i] <= 'z')
+		{
+			printf("%c", s[i] - 32);
+		}
+		else
+		{
+		printf("%c", s[i]);
+		}
+	}
+}
+```
+
+
+Though to make it simpler, you can use another library and function:
+```C
+#include <cs50.h>
+#include <ctype.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	string s = get_string("Before: ");
+	pritnf("After: ");
+	for (int i = 0, n = strleng(s); i < n; i++)
+	{
+		if (islower(s[i]) !=0)
+		{
+			printf("%c", s[i] - 32);
+		}
+		else
+		{
+		printf("%c", s[i]);
+		}
+	}
+}
+```
+
+You can also use another function to make this significantly shorter:
+```C
+#include <cs50.h>
+#include <ctype.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	string s = get_string("Before: ");
+	pritnf("After: ");
+	for (int i = 0, n = strleng(s); i < n; i++)
+	{
+		printf("%c", toupper(s[i]));
+	}
+}
+```
+
+
+
+Command-line arguments
+
+```C
+#include <stdio.h>
+
+int main(void) //(void) does not take command-line arguments
+{
+
+}
+```
+
+command-line arguments 
+-> Words after the command you type in the terminal. 
+
+
+```C
+#include <stdio.h>
+
+int main(int argc, string argv[])
+{
+
+}
+```
+
+int argc - how many words the user has typed in the terminal which will be taken from argv.
+
+string argv - the array of all the characters the user has typed din the terminal.
+
+
+Example code:
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(int argc, string argv[])
+{
+	printf("Hello, %s \n", argv[1]);
+}
+```
+
+How you open it:
+```
+./argv Rafael
+```
+
+
+This outputs:
+```
+Hello, Rafael
+```
+
+Doing command-line arguments makes it so that you can input things so much faster compared to taking input from the terminal. 
+
+
+
+Exit status
+This is a way for the program to stop when something unintentional or something went wrong.
+
+Example of a program with an exit status.
+```C
+#include <cs50.h>
+#include <stdio.h>
+
+int main(int argc, string argv[])
+{
+	if (argc !=2)
+	{
+		printf("Missing command-line argument\n");
+		return 1;
+	}
+	else
+	{
+		printf("Hello, %s\n", argv[1]);
+		return 0;
+	}
+}
+```
+
+Return 0 will always say that there is nothing wrong with the execution of code, and if you don't place the return 0; the program will always return 0;
+
+
+
+Cryptography
+
+Where you send a text or information where you have scrambled it in such a way that when someone tries to read it, they won't be able to understand it. Only the person who knows the method the the scrambling would understand. 
+
+![[Pasted image 20230731130726.png]]
+You can also use the same logic in programming in cryptography.
+
+But in most cases you use two inputs.
+![[Pasted image 20230731130841.png]]
+
+They key is what you and the recipient/sender agree upon the meaning of the cipher.
+
+
