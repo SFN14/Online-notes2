@@ -1,3 +1,6 @@
+---
+Type: Fleeting
+---
 Date: 07-24-2023
 Time: 23:36
 Status: #💡 

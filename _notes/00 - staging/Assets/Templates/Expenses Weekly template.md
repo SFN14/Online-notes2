@@ -20,6 +20,6 @@ Year: {{date:YYYY}}
 
 
 
-# Money You Have left in the end of the month: 
+# Money You Have left in the end of the week: 
 ## Spending Money:
 ## Saved Money:
