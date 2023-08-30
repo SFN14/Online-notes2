@@ -1,15 +1,15 @@
 ---
-Subject: ARP
+Subject: ARP101
 ---
 Date: 08-23-2023 
 Time: 10:17
-Status: #📕 
-Tags: 
+Status: #📄 
+Tags: [[Araling Pilipino]]
 
 -----
 
 # Summary 
-
+Dahil sa CHED Memorandum 20 Series of 2013, or CMO no. 20 tinaggal ang Araling Pilipino sa Kurikulum ng Kolehiyo, at dahil dito possibleng unting-unti mamatay ang wikang Filipino, katulad ng wikang Baybayin.
 
 # CMO no. 20 Series of 2013 or CHED memorandum 20 Series of 2013
 Ang nilalaman nito ay ang bagong kurrikulum sa GE (required para rmakagraduate sa kolehiyo) kung saan hindi na kinakailangan ang Araling Pilipino sa Kolehiyo para makapasa.

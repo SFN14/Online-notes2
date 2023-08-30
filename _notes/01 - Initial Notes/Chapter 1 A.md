@@ -55,7 +55,16 @@ Note: a great way to see how your program will flow, use a flowchart. This is th
 
 # History of Java
 ## In 1991 James Gosling and his team began designing the first version of Java.
--> its first name was Oak, it was named this because there was an oak tree outside of their HQ.
+-> its first name was Oak, it was ne to time. 
+- Variable should be declared prior to storage of any values, these are known as data types.
+  Ex: Int, Float, Bool, Char, String, etc.
+- When declaring variables, in Java rules must be followed accordingly. 
+
+## Values that can be placed in variables
+1. Numeric Values
+- Real
+	-> 3,  8, 50 
+- integeramed this because there was an oak tree outside of their HQ.
 -> The main goal of Java back then was to be used for home appliances
 -> Java Byte Code or Byte Code.
 ## 1994: Ideal for Web browse, then was produced by Patrick  Naughton and Jonathan Payne.
@@ -71,16 +80,7 @@ Note: a great way to see how your program will flow, use a flowchart. This is th
 - It represents a location or a set of locations in the computer's main memory.
   -> Values are placed in these locations known as variables. 
 - Different values are placed in the storage depends on the type of value stored.
-  -> The values may be changed from time to time. 
-- Variable should be declared prior to storage of any values, these are known as data types.
-  Ex: Int, Float, Bool, Char, String, etc.
-- When declaring variables, in Java rules must be followed accordingly. 
-
-## Values that can be placed in variables
-1. Numeric Values
-- Real
-	-> 3,  8, 50 
-- integer
+  -> The values may be changed from tim
 	-> 10, -23 ,100
 1. Character Values
    - Standard ASCII Characters

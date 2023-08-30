@@ -46,6 +46,16 @@ Year: 2023
 >### How much money you have left: 102 PHP
 
 
+>[!abstract] # Expenses 08-26-2023
+>## Spending Money: 112
+>## How much money: 
+>Food for lunch: - 65 PHP
+>Membership fee: - 35 PHP
+>Gulaman: - 10 PHP
+>## Receipt (if applicable):
+>### How much money you have left: 2 PHP
+
+
 # Money You Have left in the end of the week: 
-## Spending Money: 102 PHP
-## Saved Money: 510 PHP
+## Spending Money: 2 PHP
+## Saved Money:  510 PHP
