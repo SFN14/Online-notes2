@@ -8,30 +8,30 @@ Tags: [[CS50]]
 
 ----
 
-Compiler
+# Compiler
 this is a software that turns programming languages into machine code or binary that you computer can read.
 
-compiling process
-1. preprocessing - find and replace.
+## Compiling process
+### 1. preprocessing - find and replace.
 ```C
  #include <cs50.h>
  #include <stdio.h>
 ```
 This is where you process the libraries for the prototypes of the functions you are going to use in the program you made. The program trust that you have the files somewhere in your storage device and gets the functions from those libraries.
-   
-2. compiling
+
+### 2. compiling
 Turns your programming language into assembly language, it is the lowest level of programming language before its binary.
 ![[Pasted image 20230727154235.png]]
 This are assembly instructions, these are the instructions that are give from the memory to the processor. 
 
-3. assembling
+### 3. assembling
    Assemble the assembly instructions into binary.
    
-4. linking
+### 4. linking
    Links all the binary codes of the 2 libraries, and your code, to make 1 sequence of machine language. 
 
 
-Debugging
+# Debugging
 
 bug - a mistake in your code. 
 
@@ -60,7 +60,7 @@ Running this would yield:
 The simplest way to solve this is using printf. 
 
 This code
-```C
+```C#
 #include <stdio.h>
 int main(void)
 {
@@ -73,7 +73,7 @@ int main(void)
 ```
 
 would print out:
-```
+```C#
 i is 0
 #
 i is 1
@@ -86,14 +86,14 @@ i is 3
 
 Now you can see the problem that the computer is counting more than it should, so now you know that you have to adjust the i <= 3 to solve the problem.
 
-Debugger method
+## Debugger method
 Runs the execution of the code one step at a time. This lets you do automatically the previous debugging process. 
 
-Rubber Duck Method
+## Rubber Duck Method
 Talking to someone or something about running the code that you are trying to debug. By doing this, you will eventually realize illogical logic that you first thought was logical. 
 
-
-Type
+# How Computers Store Information in [[RAM]]
+## Type
 
 | Data type | Bytes taken |
 | --- | ---|
@@ -103,7 +103,7 @@ Type
 | float | 4 bytes |
 | int | 4 bytes|
 |long | 8 bytes |
-| string | ? bytes |
+| string | ? bytes (Varies) |
 
 Data types takes up space in memory. 
 
@@ -148,7 +148,7 @@ Average: 59.333333
 
 The problems with this code, is that you cannot change the scores, you cannot add more scores and that you cannot modify the denominator to get the average. 
 
-Representation of how the data is stored in the RAM:
+## Representation of how the data is stored in the RAM:
 ![[Pasted image 20230728155752.png]]
 
 or 
@@ -160,6 +160,7 @@ Now to fix the ugly code from earlier, we can use arrays to store and recall the
 
 Arrays is a type of data that makes it so that you can store the same data type with different values but one name. 
 
+# Array
 This is an array
 ```
 int scores[3];
@@ -170,16 +171,15 @@ An array's purpose is to remove having different multiple variable names for the
 This can store 3 integers, as said by the number inside the bracket. 
 
 So to assign values  you need to:
-```
+```C#
 int scores[3];
 	scores[0];
 	scores[1];
 	scores[2];
 ```
 
-
 To use this in the code:
-```C
+```C#
 #include <stdio.h>
 
 int main(void)
@@ -195,7 +195,7 @@ int main(void)
 ```
 
 This doesn't solve all the problems, but this is good way to show how arrays work. Now we can use get_int to get the values for the arrays.
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -212,7 +212,7 @@ int main(void)
 ```
 
 Now this will allow you to place now value. But this could still be better, but you can use a for loop to do this better
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -230,7 +230,7 @@ int main(void)
 ```
 
 Now this can still be better, by now asking the user how many scores do you want to input.
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -251,12 +251,12 @@ int main(void)
 Though this still won't become larger with each addition of your score.
 
 
-
-A string is just an array of characters . Where in you can individual can get the characters from a string by calling each character like how you would an array.
+## A string is just an array of characters 
+Where in you can individual can get the characters from a string by calling each character like how you would an array.
 
 Example
 Program:
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -272,7 +272,7 @@ Output:
 72 73 33
 ```
 
-Now when you place a string in memory it should look like this:
+### Now when you place a string in memory it should look like this:
 ![[Pasted image 20230728165243.png]]
 
 To add more characters next to it, but without it interfering with the next you will have to use a null character or a special character/ sentinel character, or '\n' in the C programming language, or a bit with only 0s in RAM. In a deeper programming language it is '\0' not '\n'.
@@ -282,7 +282,7 @@ Which would look like this:
 
 A null value does waste a bit, but it does denote the end of a string, and since RAM is plentiful these days this isn't a problem. 
 
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -302,8 +302,8 @@ int main(void)
 This program shows how many character a string has.
 
 Output:
-```
-Namme: HI!
+```C#
+Name: HI!
 3
 
 Name: BYE!
@@ -314,7 +314,7 @@ Name: David
 ```
 
 
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -342,7 +342,7 @@ This does the same but much cleaner
 
 
 This code is a code that prints out Strings.
-```C
+```C#
 #include <stdio.h>
 #include <string.h>
 
@@ -360,7 +360,7 @@ int main(void)
 However, this code is not its most efficient, due to string length being constantly called.
 
 This can be fixed by using an int variable to make it so that you only call it once.
-```C
+```C#
 #include <stdio.h>
 #include <string.h>
 
@@ -379,7 +379,7 @@ int main(void)
 
 
 But you can declare multiple variables inside for loops, so you can add the declaration of the length variable in the for loop.
-```C
+```C#
 #include <stdio.h>
 #include <string.h>
 
@@ -399,7 +399,7 @@ This is now more efficient and looks better.
 
 
 This program turn strings into capitals:
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
@@ -424,7 +424,7 @@ int main(void)
 
 
 Though to make it simpler, you can use another library and function:
-```C
+```C#
 #include <cs50.h>
 #include <ctype.h>
 #include <stdio.h>
@@ -449,7 +449,7 @@ int main(void)
 ```
 
 You can also use another function to make this significantly shorter:
-```C
+```C#
 #include <cs50.h>
 #include <ctype.h>
 #include <stdio.h>
@@ -468,9 +468,9 @@ int main(void)
 
 
 
-Command-line arguments
+# Command-line arguments
 
-```C
+```C#
 #include <stdio.h>
 
 int main(void) //(void) does not take command-line arguments
@@ -480,10 +480,10 @@ int main(void) //(void) does not take command-line arguments
 ```
 
 command-line arguments 
--> Words after the command you type in the terminal. 
+These are words after the command you type in the terminal. 
 
 
-```C
+```C#
 #include <stdio.h>
 
 int main(int argc, string argv[])
@@ -498,7 +498,7 @@ string argv - the array of all the characters the user has typed din the termina
 
 
 Example code:
-```C
+```C#
 #include <cs50.h>
 #include <stdio.h>
 
@@ -523,7 +523,7 @@ Doing command-line arguments makes it so that you can input things so much faste
 
 
 
-Exit status
+# Exit status
 This is a way for the program to stop when something unintentional or something went wrong.
 
 Example of a program with an exit status.
@@ -550,7 +550,7 @@ Return 0 will always say that there is nothing wrong with the execution of code,
 
 
 
-Cryptography
+# Cryptography
 
 Where you send a text or information where you have scrambled it in such a way that when someone tries to read it, they won't be able to understand it. Only the person who knows the method the the scrambling would understand. 
 

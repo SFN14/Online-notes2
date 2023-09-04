@@ -25,7 +25,7 @@ Year: 2023
 >## Spending Money: 123 PHP
 >## Saved Money: 510 PHP
 >## How much money:
->print of docutments: - 6 PHP
+>print of documents: - 6 PHP
 >## Receipt (if applicable):
 >### How much money you have left: 117 PHP
 

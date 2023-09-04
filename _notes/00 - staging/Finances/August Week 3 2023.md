@@ -15,6 +15,7 @@ Year: 2023
 >
 >## Receipt (if applicable):
 >### How much money you have left: 286 PHP
+
 >[!abstract] # Expenses 08-16-2023
 >## Spending Money: 286 PHP
 >## How much money: 

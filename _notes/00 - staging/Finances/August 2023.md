@@ -1,7 +1,7 @@
 ```dataview
 list
 WHERE month = 8
-SORT rating desc
+SORT rating DESC
 ```
 
 # Money You Have left in the end of the month: 
