@@ -21,12 +21,12 @@ Status: #📕
 - ### [[Ideological State Apparatus]]
 - ### [[Kulturang Kolonyal]]
 - ### [[Kulturang Represyon at Pasismo]]
-- ### [[Kultura ng Konsumerismo / Kapitalismo]]
-- ### [[Kultura ng Machismo / Seksismo]] 
+- ### [[Kultura ng Konsumerismo at Kapitalismo]]
+- ### [[Kultura ng Machismo at Seksismo]] 
            
 # 2. Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
 ## Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
-- ### [[Pagpopook ng “Pilipinolohya / Pilipinisasyon” sa AP]]
+- ### [[Pagpopook ng “Pilipinolohya o Pilipinisasyon” sa AP]]
 - ### [[Mga Pagpopook Tungong Pagdadalumat: Mga Muhon ng Pilipinisasyon]]
 - ### [[Ang Pantayong Pananaw]]
 - ### [[Kalinangang Bayan]]
