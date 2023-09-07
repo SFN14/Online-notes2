@@ -1,6 +1,6 @@
 ---
 Type: College Notes
-Subject: cc103
+Subject: CC103
 ---
 Date: 08-24-2023
 Time: 09:54
@@ -37,3 +37,48 @@ Example:
 
 ![[Pasted image 20230824100249.png]]
 
+# What is Logic Formulation?
+
+The Process of coming out with the basic steps to implement  procedure in computer programming.
+This is usually resorted to when having top-down design.
+Flowcharts and pseudo codes are the two of most common output.
+
+Bringing the steps as required by the task in proper order so that when it is executed procedurally the desired result is achieved according to the required output specification. 
+
+Everyone will have a somewhat different way to solve a problem.
+
+## Basic Control Structures
+Logical constructs that specify how instructions in a program are to be executed. The framework of the program.
+1. Sequence - keyword: order
+2. Selection - Keyword: option
+3. Repetition - keyword: loop
+
+### Sequence
+Keyword: Order
+Instructions are designed to be executed in the order the are written. You cannot skip parts of the code.
+This provides the basis for other Basic Control Structures.
+
+### Selection 
+Keyword: Branch, Conditional, Decision, or Option
+It uses the diamond symbol for the decision. 
+How the program reacts depending on what happens or is input put the user.
+A programmer should anticipate all the things that the user can do. 
+#### 3 Types
+1. Single Selection
+2. Double Selection
+3. Multiple Selection
+
+### Repetition
+Keyword: Looping or Iteration
+The lines of code or processes repeat until the program says that its done.
+This can also be iterations, or counting to know when to stop. 
+If you have something that loops infinitely, remember that you there should be a stop, because an infinite loop is tedious on the user's part.
+
+### How to solve a problem
+Break the big problem into smaller problems that you can solve.
+
+When laying out the logic, use simple words. 
+
+Consider the step by step of how the computer will process the information.
+
+There are clients that tells a story of what they want, while others set what they need. 

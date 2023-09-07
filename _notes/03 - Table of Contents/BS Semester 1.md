@@ -14,6 +14,6 @@ where year = 1 AND semester = 1
 [[Physical Education 1]]
 [[NSTP]]
 [[Mathematics in the Modern World]]
-[[Introduction To Computing]]
+[[02 - Permanent Notes/College Notes/Introduction To Computing]]
 [[Computer Programming 1]]
 [[Araling Pilipino]]

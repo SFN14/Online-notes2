@@ -1,6 +1,6 @@
 ---
 Type: College Notes
-Subject: cc103
+Subject: CC103
 ---
 Date: 08-23-2023
 Time: 16:29

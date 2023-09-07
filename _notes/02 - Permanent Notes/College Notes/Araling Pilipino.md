@@ -27,7 +27,7 @@ Status: #📕
 # 2. Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
 ## Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
 - ### [[Pagpopook ng “Pilipinolohya o Pilipinisasyon” sa AP]]
-- ### [[Mga Pagpopook Tungong Pagdadalumat: Mga Muhon ng Pilipinisasyon]]
+- ### [[Mga Pagpopook Tungong Pagdadalumat; Mga Muhon ng Pilipinisasyon]]
 - ### [[Ang Pantayong Pananaw]]
 - ### [[Kalinangang Bayan]]
 - ### [[Mga Hamon sa Indibidwal na Iskolar sa Larangan ng AP]]
