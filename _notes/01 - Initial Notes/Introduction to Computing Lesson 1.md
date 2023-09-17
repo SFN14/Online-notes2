@@ -13,7 +13,7 @@ Tags: [[Introduction To Computing]]
 # Data 
 - Raw, Unprocessed facts, figures symbols or observations
 - It can be any format, audio, numbers, visual, or bytes.
-Characteristics:s
+Characteristics
 - Lack of context
 - Various Formats
 - Building blocks of information
@@ -144,3 +144,23 @@ Types of Computers:
 	Ex:
 	Electrocardiogram Machine in Hospitals
 	Gasoline Stations pumps
+
+# Applications of ICT
+- Communication
+- Education
+- Healthcare
+- Business
+- Entertainment
+- Government Services
+- Scientific Research
+- Transportation
+- Finance
+- Manufacturing
+- Agriculture
+- Energy Management
+- Environmental Monitoring
+- Cybersecurity
+- Space Exploration
+
+ICT revolutionizes these areas by enabling digital communication, automation, data analysis, and-real time information access.
+

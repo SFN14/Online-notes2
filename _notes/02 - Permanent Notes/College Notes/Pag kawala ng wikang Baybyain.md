@@ -4,7 +4,7 @@ Subject: ARP
 Date: 08-23-2023 
 Time: 10:24
 Status: #📝 
-Tags: 
+Tags: [[Mga Hamon sa Pagtuturo Gamit ang Lente ng Araling Pilipino]]
 
 -----
 

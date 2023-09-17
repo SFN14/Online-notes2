@@ -82,3 +82,5 @@ When laying out the logic, use simple words.
 Consider the step by step of how the computer will process the information.
 
 There are clients that tells a story of what they want, while others set what they need. 
+
+
