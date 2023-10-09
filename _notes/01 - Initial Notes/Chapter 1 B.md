@@ -83,4 +83,8 @@ Consider the step by step of how the computer will process the information.
 
 There are clients that tells a story of what they want, while others set what they need. 
 
+# Conventions
+Class names are Uppercased
+If they have two words, use camel casing (camelCasing)
+
 

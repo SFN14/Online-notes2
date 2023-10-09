@@ -8,9 +8,6 @@ Tags: [[Araling Pilipino]]
 
 -----
 
-# Summary 
-
-
 # Bienvenido Lumbera
 Isa siyang national artist for literature at naging isa sa naging akibto para sa galaw sa Filipinization. Siya ay naging Alagad ng sining ng Pampanitikan, at habang siya ay nag Aaral sa Indiana University ay nakatanggap siya ng Ramon Magsasay award para sa Journalismo, Literatura at Sining sa Komunikasyon noong 1993. 
 

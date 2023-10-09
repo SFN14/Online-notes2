@@ -23,7 +23,7 @@ Status: #📕
 - ### [[Kulturang Represyon at Pasismo]]
 - ### [[Kultura ng Konsumerismo at Kapitalismo]]
 - ### [[Kultura ng Machismo at Seksismo]] 
-           
+
 # 2. Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
 ## Simulain ng Araling Pilipino (Kasaysayan at Pag-unlad)
 - ### [[Pagpopook ng “Pilipinolohya o Pilipinisasyon” sa AP]]

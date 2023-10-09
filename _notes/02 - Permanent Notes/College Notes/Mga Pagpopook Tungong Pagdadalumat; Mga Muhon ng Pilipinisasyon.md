@@ -46,6 +46,10 @@ Ito ay may 3 Paraan
 
 ## 2. Prospero Kovar
 -> Ama ng Pilinolohiya
+Sistematikong pagaaral ng kapilipinuhan sa tatlong larangan:
+1. Kaisipan
+2. Kultura
+3. Lipunang Pilipinos
 
 
 ## 3. Zeus Salazar
